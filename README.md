@@ -7,7 +7,7 @@ It displays popular food items like cheeseburgers, teriyaki chicken, and more.
 Also includes a basic contact form.
 
 ## 🔗 Live Demo
-[Click here to view][link]
+[Click here to view]https://atchayaparamaiah.github.io/reestar-website/
 
 ## 📂 Features
 - Home | Recipes | Contact
