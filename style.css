@@ -1,0 +1,200 @@
+.title__name{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding-top: 10px;
+    
+}
+.title__desc{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 0;
+    padding-bottom: 10px;
+    font-style: ;   
+}
+.container{
+    text-align: center;
+}
+.receipe-one{
+    background-color: white;
+    border:solid black 2px;
+    display: inline-block;
+    height: 290px;
+    width:150px;
+    text-align: center;
+    vertical-align: top;
+
+}
+.receipe-one__title,.receipe-one__desc{
+    margin:0;
+    
+}
+
+.receipe-one__button{
+    background-color: black;
+    color: white;
+    margin-top: 11px;
+}
+.receipe-two{
+    background-color: white;
+    border:solid black 2px;
+    display: inline-block;
+    height: 290px;
+    width:150px;
+    text-align: center;
+    vertical-align: top;
+}
+.receipe-two__title,.receipe-two__desc{
+    margin: 0;
+}
+.receipe-two__button{
+    background-color: black;
+    color: white;
+    margin-top: 11px;
+}
+.receipe-three{
+    background-color: white;
+    border:solid black 2px;
+    display: inline-block;
+    height: 290px;
+    width:150px;
+    text-align: center;
+    vertical-align: top;
+}
+.receipe-three__title,.receipe-three__desc{
+    margin: 0;
+}
+.receipe-three__button{
+    background-color: black;
+    color: white;
+    margin-top: 11px;
+}
+.receipe-four{
+    background-color: white;
+    border:solid black 2px;
+    display: inline-block;
+    height: 290px;
+    width:150px;
+    text-align: center;
+    vertical-align: top;
+}
+.receipe-four__title,.receipe-four__desc{
+    margin: 0;
+}
+.receipe-four__button{
+    background-color: black;
+    color: white;
+    margin-top: 11px;
+}
+.detail{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.detail__contact{
+    padding-top: 10px;
+    margin-bottom: 0;
+}
+.detail__table{
+    display: inline-block;
+   
+}
+.detail__button{
+    background-color: yellow;
+    display: inline-block;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.detail__button:hover{
+    background-color: gold;
+}
+.title__name:hover{
+    color: antiquewhite;
+}
+.title__desc:hover{
+    color: antiquewhite;
+}
+.receipe-one__title:hover{
+    color: blue;
+}
+.receipe-one__button:hover{
+    background-color: green;
+    color: white;
+}
+.receipe-one__img{
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.receipe-one__img:hover{
+    transform: scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+.receipe-two__image{
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.receipe-two__image:hover{
+    transform: scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+.receipe-two__title:hover{
+    color: blue;
+}
+
+.receipe-two__button:hover{
+    background-color: green;
+    color: white;
+}
+.receipe-three__image{
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.receipe-three__image:hover{
+    transform: scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+.receipe-three__title:hover{
+    color: blue;
+}
+
+.receipe-three__button:hover{
+    background-color: green;
+    color: white;
+}
+.receipe-four__image{
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.receipe-four__image:hover{
+    transform: scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+.receipe-four__title:hover{
+    color: blue;
+}
+
+.receipe-four__button:hover{
+    background-color: green;
+    color: white;
+}
+.detail__contact:hover{
+    color: antiquewhite;
+}
+input:hover {
+  border: 2px solid #00bfff;
+  box-shadow: 0 0 8px rgba(0,191,255,0.5);
+}
+
+.detail__button:hover{
+    background-color: greenyellow;
+    color: white;
+}
+.detail__table:hover {
+  transform: scale(1.05);
+  background-color: brown;
+  color: white;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  transition: all 0.3s ease;
+}
+.detail__button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 15px rgba(0,0,0,0.3);
+}
